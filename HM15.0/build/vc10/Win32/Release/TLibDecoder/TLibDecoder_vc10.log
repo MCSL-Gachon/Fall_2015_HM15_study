@@ -1,0 +1,35 @@
+﻿빌드 시작: 2015-08-27 오전 2:28:38
+     1>4 노드의 "C:\HM15.0\build\vc10\TLibDecoder_vc10.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\HM15.0\build\\..\source\Lib\ /IC:\HM15.0\build\\..\compat\msvc /Zi /nologo /W3 /WX- /O2 /Ob2 /Ot /Oy- /GL /D WIN32 /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\HM15.0\build\\vc10\Win32\Release\TLibDecoder\\" /Fd"C:\HM15.0\build\\vc10\Win32\Release\TLibDecoder\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibDecoder\AnnexBread.cpp ..\..\source\Lib\TLibDecoder\NALread.cpp ..\..\source\Lib\TLibDecoder\SEIread.cpp ..\..\source\Lib\TLibDecoder\SyntaxElementParser.cpp ..\..\source\Lib\TLibDecoder\TDecBinCoderCABAC.cpp ..\..\source\Lib\TLibDecoder\TDecCAVLC.cpp ..\..\source\Lib\TLibDecoder\TDecCu.cpp ..\..\source\Lib\TLibDecoder\TDecEntropy.cpp ..\..\source\Lib\TLibDecoder\TDecGop.cpp ..\..\source\Lib\TLibDecoder\TDecSbac.cpp ..\..\source\Lib\TLibDecoder\TDecSlice.cpp ..\..\source\Lib\TLibDecoder\TDecTop.cpp
+         AnnexBread.cpp
+         NALread.cpp
+         SEIread.cpp
+         SyntaxElementParser.cpp
+         TDecBinCoderCABAC.cpp
+         TDecCAVLC.cpp
+         TDecCu.cpp
+         TDecEntropy.cpp
+         TDecGop.cpp
+         TDecSbac.cpp
+         TDecSlice.cpp
+         TDecTop.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\HM15.0\build\\vc10\Win32\Release\TLibDecoder\TLibDecoder.lib" /NOLOGO /LTCG C:\HM15.0\build\\vc10\Win32\Release\TLibDecoder\AnnexBread.obj
+         C:\HM15.0\build\\vc10\Win32\Release\TLibDecoder\NALread.obj
+         C:\HM15.0\build\\vc10\Win32\Release\TLibDecoder\SEIread.obj
+         C:\HM15.0\build\\vc10\Win32\Release\TLibDecoder\SyntaxElementParser.obj
+         C:\HM15.0\build\\vc10\Win32\Release\TLibDecoder\TDecBinCoderCABAC.obj
+         C:\HM15.0\build\\vc10\Win32\Release\TLibDecoder\TDecCAVLC.obj
+         C:\HM15.0\build\\vc10\Win32\Release\TLibDecoder\TDecCu.obj
+         C:\HM15.0\build\\vc10\Win32\Release\TLibDecoder\TDecEntropy.obj
+         C:\HM15.0\build\\vc10\Win32\Release\TLibDecoder\TDecGop.obj
+         C:\HM15.0\build\\vc10\Win32\Release\TLibDecoder\TDecSbac.obj
+         C:\HM15.0\build\\vc10\Win32\Release\TLibDecoder\TDecSlice.obj
+         C:\HM15.0\build\\vc10\Win32\Release\TLibDecoder\TDecTop.obj
+         TLibDecoder_vc10.vcxproj -> C:\HM15.0\build\\vc10\Win32\Release\TLibDecoder\TLibDecoder.lib
+     1>"C:\HM15.0\build\vc10\TLibDecoder_vc10.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:08.13
